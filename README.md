@@ -2,15 +2,15 @@
 
 Frontend developer focused on building clean, accessible, and maintainable user interfaces.
 
-Interested in learning production-grade frontend practices and contributing to real-world systems.
+Currently contributing to real-world systems while developing production-grade frontend skills.
 
 ---
 
 ## Focus
 
 - Frontend web development
-- Clean, readable UI code
-- Component-based architecture
+- Component-based UI architecture
+- Maintainable and readable code
 - Performance-aware interfaces
 
 ---
@@ -28,18 +28,21 @@ Git, GitHub, VS Code
 
 ---
 
+## Current Work
+
+**SBACS — Shift-Based Anti-Corruption System**  
+Frontend developer responsible for implementing and maintaining user interfaces for a system focused on accountability and auditability in shift-based operations.
+
+- Translating system requirements into clear UI flows  
+- Implementing React components with native CSS  
+- Collaborating on frontend structure and usability  
+
+---
+
 ## Experience
 
 - Frontend Development Intern — AWS  
 - Exposure to large-scale engineering environments and modern development workflows
-
----
-
-## Interests
-
-- UI implementation from design specs
-- Improving frontend performance and usability
-- Learning best practices from production systems
 
 ---
 
